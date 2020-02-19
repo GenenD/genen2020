@@ -11,4 +11,10 @@
         "description": "Диаграмма классов",
         "preview": "img/class-diagram.png"
     }
+    {
+        "id": 3,
+        "title": "Тест 1",
+        "description": "Тестовое описание",
+        "preview": "https://avatars.mds.yandex.net/get-zen_doc/56585/pub_5d8476aedf944400aec17076_5d84778c028d6800ac341d24/scale_1200"
+    }
 ]
