@@ -1,6 +1,9 @@
 {
     "title": "UML Class",
     "items": [
-        
+        {
+            "type": "image",
+            "data": "https://github.com/GenenD/genen2020/blob/master/ClassDiagram.png"
+        }
     ]
 }
