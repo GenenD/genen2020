@@ -56,6 +56,10 @@
                     "text": "ссылка на личную страницу записана в списке группы"
                 }]
             ]
+        },
+        {
+            "type": "image",
+            "data": "https://github.com/GenenD/genen2020/blob/master/UseCase.png?raw=true"
         }
     ]
 }
