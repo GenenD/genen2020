@@ -7,9 +7,9 @@
     },
     {
         "id": 2,
-        "title": "UML Class",
+        "title": "Лабораторная №2",
         "description": "Диаграмма классов",
-        "preview": "img/class-diagram.png"
+        "preview": "https://66.media.tumblr.com/2a0483a1bf7ce82316fb1d8d2baba3fd/4f1fafa95562c81c-c5/s1280x1920/79f13ae5c15786e3ee455fce676d7774add6282a.jpg"
     },
     {
         "id": 3,
@@ -34,5 +34,11 @@
         "title": "Лабораторная №6",
         "description": "Тестовое описание",
         "preview": "https://i.imgur.com/wstz1Aa.jpg"
+    },
+        {
+        "id": 7,
+        "title": "Семинары",
+        "description": "<3",
+        "preview": "https://66.media.tumblr.com/4ab613eb98ae0ff64915f0b814e39a64/tumblr_pm5szxUBvM1rjlj53o1_500.gif"
     }
 ]
