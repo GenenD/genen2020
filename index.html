@@ -60,7 +60,7 @@
   
   		<h1>Лабораторная работа №3<h1>
 			<canvas id="canvas" width="400" height="400"
-					style="background-color:#413">
+					style="background-color:#333">
 			</canvas>
 				<script>
 					var canvas = document.getElementById("canvas");
@@ -81,15 +81,15 @@
 					  ctx.fillStyle = 'white';
 					  ctx.fill();
 					  grad = ctx.createRadialGradient(0,0,radius*0.95, 0,0,radius*1.05);
-					  grad.addColorStop(0, '#333');
+					  grad.addColorStop(0, '#413');
 					  grad.addColorStop(0.5, 'white');
-					  grad.addColorStop(1, '#333');
+					  grad.addColorStop(1, '#413');
 					  ctx.strokeStyle = grad;
 					  ctx.lineWidth = radius*0.1;
 					  ctx.stroke();
 					  ctx.beginPath();
 					  ctx.arc(0, 0, radius*0.1, 0, 2*Math.PI);
-					  ctx.fillStyle = '#333';
+					  ctx.fillStyle = '#413';
 					  ctx.fill();
 							}
 					function drawNumbers(ctx, radius) {
