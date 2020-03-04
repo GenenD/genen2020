@@ -1,6 +1,20 @@
 {
     "title": "Лабораторная №3",
     "items": [
+                {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Single Page Application",
+                    "class": "md-title"
+                }
+            ]
+        }
+        
+        
+        
+        
+        
         
     ]
 }
